@@ -162,21 +162,3 @@ background-color: black;
     box-shadow: 0 10px 10px rgba(255, 255, 255, 0.1);
     cursor: pointer;
     transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);}}
-
-
-
-
-
-    
-    @media (max-width: 361px) {
-     
-      .wrapper .icon {
-        margin: 5px;
-
-        padding: 15px;
-        width: 15px;
-        height: 15px;
-        font-size: 15px;
-        box-shadow: 0 10px 10px rgba(255, 255, 255, 0.1);
-        cursor: pointer;
-        transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);}}

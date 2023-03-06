@@ -153,6 +153,9 @@ background-color: black;
 
 
 @media (max-width: 767px) {
+
+  .HEDIN{display: none;}
+
   .wrapper .icon {
     border-radius: 50%;
     padding: 20px;
